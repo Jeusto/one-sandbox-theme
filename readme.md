@@ -9,3 +9,15 @@
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme) and choose "One Sandbox"
 
 ## Screenshots
+
+### Html
+
+![Screenshot](demo-html.png)
+
+### Js
+
+![Screenshot](demo-js.png)
+
+### Css
+
+![Screenshot](demo-css.png)
