@@ -1,13 +1,14 @@
 {
     "name": "one-sandbox",
-    "displayName": "One Sandbox Dark Theme",
+    "displayName": "One Sandbox - Dark theme",
     "publisher": "Jeusto",
-    "description": "A custom theme based on \"One Dark Pro\" and \"Code Sandbox\"",
+    "description": "🌃🌘 A dark theme inspired by the online code editor \"Codesandbox\" and based on the \"One Dark Pro\" theme.",
     "repository": {
         "type": "git",
         "url": "https://github.com/Jeusto/one-sandbox-theme"
     },
-    "version": "0.1.0",
+    "icon": "icon.png",
+    "version": "0.3.0",
     "keywords": [
         "theme",
         "dark theme",

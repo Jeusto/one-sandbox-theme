@@ -1,6 +1,6 @@
 # One Sandbox
 
-A dark theme for Visual Studio Code based on the One Dark Pro theme and inspired by Codesandbox online code editor.
+🌃🌘 A dark theme for Visual Studio Code inspired by the online code editor "Codesandbox" and based on the "One Dark Pro" theme.
 
 ## Install
 
