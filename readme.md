@@ -12,12 +12,12 @@
 
 ### Html
 
-![Screenshot](demo-html.png)
+![Screenshot](https://github.com/Jeusto/one-sandbox-theme/raw/master/demo-html.png)
 
-### Js
+### Javascript (with breadcrumbs, minimap and folder explorer)
 
-![Screenshot](demo-js.png)
+![Screenshot](https://github.com/Jeusto/one-sandbox-theme/raw/master/demo-js.png)
 
-### Css
+### Css (with terminal side by side)
 
-![Screenshot](demo-css.png)
+![Screenshot](https://github.com/Jeusto/one-sandbox-theme/raw/master/demo-css.png)
