@@ -7,9 +7,9 @@
 <path d="M28.6667 30H20.6667C19.93 30 19.3333 29.4033 19.3333 28.6666V16.6666C19.3333 15.93 19.93 15.3333 20.6667 15.3333H28.6667C29.4033 15.3333 30 15.93 30 16.6666V28.6666C30 29.4033 29.4033 30 28.6667 30Z" fill="#98C379"/>
 <defs>
 <linearGradient id="paint0_linear" x1="18" y1="-6" x2="23.6239" y2="40.3171" gradientUnits="userSpaceOnUse">
-<stop stop-color="#5B6374"/>
-<stop offset="0.484375" stop-color="#434956"/>
-<stop offset="1" stop-color="#282C34"/>
+<stop stop-color="#3a3a3a"/>
+<stop offset="0.484375" stop-color="#1d1d1d"/>
+<stop offset="1" stop-color="#111111"/>
 </linearGradient>
 </defs>
 </svg>
