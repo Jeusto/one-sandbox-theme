@@ -12,7 +12,6 @@
     "keywords": [
         "theme",
         "dark theme",
-        "light theme",
         "one dark pro",
         "code sandbox",
         "one sandbox",
@@ -28,9 +27,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Sandbox Light",
-                "uiTheme": "vs",
-                "path": "./themes/One Sandbox Light-color-theme.json"
+                "label": "One Sandbox Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Sandbox-color-theme.json"
             }
         ]
     }
